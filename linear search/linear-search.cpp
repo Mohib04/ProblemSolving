@@ -22,7 +22,7 @@ int main()
     int j;
     for(j=0; j<n; j++){
         if(key==a[j]){
-            cout<<key <<" Present at: "<<j<<" Position "<<endl;
+            cout<<key <<" Present at: "<<j<<" index "<<endl;
             break;
         }
     }
