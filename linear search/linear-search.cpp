@@ -27,6 +27,7 @@ int main()
         }
     }
 
+    ///if element are not present on the array
     if(j==n){
         cout<<key <<" Not present in the array!!" <<endl;
     }
